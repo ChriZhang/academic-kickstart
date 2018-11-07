@@ -18,7 +18,7 @@ weight = 5
 [[education.courses]]
   course = "PhD candidate"
   institution = "Sorbonne université"
-  year = since 2016
+  year = 2016
 
 [[education.courses]]
   course = "M2 Math Model"
