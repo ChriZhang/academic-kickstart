@@ -17,7 +17,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD candidate"
-  institution = "Sorbonne université"
+  institution = "Sorbonne universite"
   year = 2016
 
 [[education.courses]]
