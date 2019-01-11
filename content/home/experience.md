@@ -30,7 +30,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Assistant"
-  company = "ETH Zürich"
+  company = "ETH Zurich"
   company_url = ""
   location = "Switzerland"
   date_start = "2017-01-01"
