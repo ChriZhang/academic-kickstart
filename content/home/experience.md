@@ -35,6 +35,6 @@ date_format = "January 2006"
   location = "Switzerland"
   date_start = "2017-01-01"
   date_end = "2017-06-30"
-  description = """Taught exercise classes for a second-year course on integration and measure theory."""
+  description = "Taught exercise classes for a second-year course on integration and measure theory."
 
 +++
