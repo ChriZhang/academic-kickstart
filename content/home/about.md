@@ -7,10 +7,6 @@ date = 2016-04-20T00:00:00
 # Order that this section will appear in.
 weight = 5
 
-
-I am currently a PhD candidate at the Laboratoire Jacques-Louis Lions. I am interested in the control and stabilization of PDEs, more specifically problems of internal control and stabilization for hyperbolic systems.
-
-
 # List your academic interests.
 [interests]
   interests = [
@@ -37,4 +33,7 @@ I am currently a PhD candidate at the Laboratoire Jacques-Louis Lions. I am inte
 +++
 
 # Biography
+
+I am currently a PhD candidate at the Laboratoire Jacques-Louis Lions. I am interested in the control and stabilization of PDEs, more specifically problems of internal control and stabilization for hyperbolic systems.
+
 
