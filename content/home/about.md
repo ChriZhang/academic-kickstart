@@ -32,7 +32,7 @@ weight = 5
  
 +++
 
-# Biography
+# Welcome!
 
 I am currently a PhD candidate at the Laboratoire Jacques-Louis Lions. I am interested in the control and stabilization of PDEs, more specifically problems of internal control and stabilization for hyperbolic systems.
 
