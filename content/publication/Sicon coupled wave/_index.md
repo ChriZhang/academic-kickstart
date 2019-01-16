@@ -1,7 +1,8 @@
 +++
 title = "Publications"
-date = 2017-01-01T00:00:00
-
+date = 2018-08-23
+publication_types = 2 
+publication = "SIAM J. Control Optim."
 # List format.
 #   0 = Simple
 #   1 = Detailed
