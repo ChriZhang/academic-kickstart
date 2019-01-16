@@ -1,5 +1,5 @@
 +++
-title = "Finite-time internal stabilization of a linear 1-D transport equation"
+title = "Finite-time internal stabilization of a 1-D linear transport equation"
 date = 2019-01-15
 publication_types = "3"
 publication =""
