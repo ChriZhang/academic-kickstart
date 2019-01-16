@@ -1,8 +1,9 @@
 +++
 title = "Internal Controllability of Systems of Semilinear Coupled One-Dimensional Wave Equations with One Control"
 date = 2018-08-23
-publication_types = "2" 
-publication = "SIAM J. Control Optim."
+authors= ["Christophe Zhang"]
+publication_types = ["2"] 
+publication = "In *SIAM J. Control Optim.*"
 # List format.
 #   0 = Simple
 #   1 = Detailed
