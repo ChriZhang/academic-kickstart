@@ -1,7 +1,8 @@
 +++
-title = "Publications"
-date = 2017-01-01T00:00:00
-
+title = "Internal rapid stabilization of a linear transport equation with a scalar feedback"
+date = 2018-10-25
+publication_types= "3"
+publication =""
 # List format.
 #   0 = Simple
 #   1 = Detailed
