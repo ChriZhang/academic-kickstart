@@ -1,5 +1,5 @@
 +++
-title = "Publications"
+title = "Internal Controllability of Systems of Semilinear Coupled One-Dimensional Wave Equations with One Control"
 date = 2018-08-23
 publication_types = "2" 
 publication = "SIAM J. Control Optim."
