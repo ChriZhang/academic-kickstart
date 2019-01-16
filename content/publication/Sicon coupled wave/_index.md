@@ -1,7 +1,7 @@
 +++
 title = "Publications"
 date = 2018-08-23
-publication_types = 2 
+publication_types = "2" 
 publication = "SIAM J. Control Optim."
 # List format.
 #   0 = Simple
