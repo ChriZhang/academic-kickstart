@@ -8,6 +8,6 @@ date = 2017-01-01T00:00:00
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 2
+list_format = 3
 
 +++
