@@ -1,26 +1,26 @@
 +++
-title = "Example Talk"
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+title = "Internal stabilization of transport systems"
+date = 2018-12-11  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+#time_start = 2030-06-01T13:00:00
+#time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Christophe Zhang"]
 
 # Abstract and optional shortened version.
-abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-abstract_short = "An example talk using Academic's Markdown slides feature."
+abstract = "In this talk I present the backstepping method through three examples: the historical example of the heat equation by Krstic et al., a finite-dimensional example, and a recent result of rapid and finite-time stabilization I have obtained on the transport equation."
+#abstract_short = "An example talk using Academic's Markdown slides feature."
 
 # Name of event and optional event URL.
-event = "Academic Theme Conference"
-event_url = "https://example.org"
+event = "Groupe de Travail des Thesards, LJLL"
+event_url = "https://www.ljll.math.upmc.fr/gtt/"
 
 # Location of event.
-location = "London, United Kingdom"
+location = "Paris, France"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -39,7 +39,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "slides/example-slides"
+url_slides = "GTT-2018.pdf"
 url_video = ""
 url_code = ""
 
@@ -57,14 +57,3 @@ math = true
   focal_point = "Right"
 +++
 
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.

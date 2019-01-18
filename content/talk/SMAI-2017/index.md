@@ -38,7 +38,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "static/Files/SMAI-2017.pdf"
+url_slides = "SMAI-2017.pdf"
 url_video = ""
 url_code = ""
 
