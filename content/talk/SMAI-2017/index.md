@@ -1,5 +1,5 @@
 +++
-title = "Controle indirect de systemes d'équations d'ondes semilineaires couplees"
+title = "Controle indirect de systemes d'equations d'ondes semilineaires couplees"
 date = 2017-06-06
 draft = false
 
@@ -15,7 +15,7 @@ authors = ["Christophe Zhang"]
 abstract = "In this talk I give the ideas for the proof of a result on the internal controllability of two coupled semilinear wave equations, using only one control. The proof relies on an inversion theorem of the Nash-Moser type, proved by Gromov, and the so-called 'fictitious control method'."
 
 # Name of event and optional event URL.
-event = "Congrès national de la SMAI"
+event = "Congres national de la SMAI"
 event_url = "http://smai.emath.fr/smai2017/"
 
 # Location of event.
