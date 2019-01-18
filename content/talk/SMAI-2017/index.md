@@ -1,5 +1,5 @@
 +++
-title = "Contrôle indirect de systèmes d'équations d'ondes semilinéaires couplées"
+title = "Controle indirect de systemes d'équations d'ondes semilineaires couplees"
 date = 2017-06-06
 draft = false
 
@@ -19,7 +19,7 @@ event = "Congrès national de la SMAI"
 event_url = "http://smai.emath.fr/smai2017/"
 
 # Location of event.
-location = "London, United Kingdom"
+location = "Ronce-les-Bains, France"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -38,7 +38,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "static/Files/SMAI-2017.pdf"
 url_video = ""
 url_code = ""
 

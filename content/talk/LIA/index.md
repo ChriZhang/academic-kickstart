@@ -1,26 +1,25 @@
 +++
-title = "Example Talk"
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+title = "Internal stabilization of transport systems"
+date = 2018-11-26
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+#time_start = 2030-06-01T13:00:00
+#time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+#authors = ["Christophe Zhang]
 
 # Abstract and optional shortened version.
-abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-abstract_short = "An example talk using Academic's Markdown slides feature."
+abstract = "In this talk I present a recent result on the internal scalar stabilization of a linear 1-D transport equation. In particular, I show how this example illustrates the links between controllability and stabilization through the backstepping method."
 
 # Name of event and optional event URL.
-event = "Academic Theme Conference"
-event_url = "https://example.org"
+event = "Analysis, control and inverse problems for PDEs"
+event_url = "http://www.dma.unina.it/floridia/ControlPDEs2018/scope.html"
 
 # Location of event.
-location = "London, United Kingdom"
+location = "Napoli, Italy"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -39,7 +38,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "slides/example-slides"
+url_slides = "static/Files/LIA.pdf"
 url_video = ""
 url_code = ""
 
