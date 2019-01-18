@@ -9,7 +9,7 @@ draft = false
 #time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-#authors = ["Christophe Zhang]
+#authors = ["Christophe Zhang"]
 
 # Abstract and optional shortened version.
 abstract = "In this talk I present a recent result on the internal scalar stabilization of a linear 1-D transport equation. In particular, I show how this example illustrates the links between controllability and stabilization through the backstepping method."
