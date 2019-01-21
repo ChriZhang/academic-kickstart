@@ -39,7 +39,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "GTT-2018.pdf"
+url_slides = ""
 url_video = ""
 url_code = ""
 
