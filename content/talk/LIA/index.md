@@ -1,11 +1,11 @@
 +++
 title = "Internal stabilization of transport systems"
-date = 2018-11-26
+date = 2018-01-19
 draft = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#time_start = 2030-06-01T13:00:00
+time_start = 2018-11-26T15:00:00
 #time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
