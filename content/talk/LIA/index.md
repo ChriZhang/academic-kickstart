@@ -1,7 +1,7 @@
 +++
 title = "Internal stabilization of transport systems"
 date = 2018-11-26
-draft = false
+draft = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

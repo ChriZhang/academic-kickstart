@@ -1,7 +1,7 @@
 +++
 title = "Controle indirect de systemes d'equations d'ondes semilineaires couplees"
 date = 2017-06-06
-draft = false
+draft = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
