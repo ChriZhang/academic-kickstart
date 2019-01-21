@@ -1,11 +1,11 @@
 +++
 title = "Internal stabilization of transport systems"
-date = 2018-12-11  # Schedule page publish date.
+date = 2019-01-20  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#time_start = 2030-06-01T13:00:00
+time_start = 2018-12-11T13:00:00
 #time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -54,6 +54,6 @@ math = true
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  #focal_point = "Right"
+  focal_point = "Right"
 +++
 
