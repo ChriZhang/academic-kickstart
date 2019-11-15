@@ -18,7 +18,7 @@ weight = 5
 
 [[education.courses]]
   course = "PhD in applied mathematics"
-  institution = "Sorbonne Universite"
+  institution = "Sorbonne Université"
   year = 2019
 
 [[education.courses]]
