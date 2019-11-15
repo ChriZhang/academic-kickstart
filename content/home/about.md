@@ -15,10 +15,11 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
+
 [[education.courses]]
-  course = "PhD candidate"
+  course = "PhD in applied mathematics"
   institution = "Sorbonne Universite"
-  year = 2016
+  year = 2019
 
 [[education.courses]]
   course = "Master's degree in applied mathematics"
@@ -34,6 +35,6 @@ weight = 5
 
 # Welcome!
 
-I am currently a PhD candidate at the [Laboratoire Jacques-Louis Lions](https://www.ljll.math.upmc.fr), under the supervision of [Jean-Michel Coron](https://www.ljll.math.upmc.fr/coron/). I am interested in the control and stabilization of PDEs, more specifically problems of internal control and stabilization for hyperbolic systems.
+I defended my PhD thesis at the [Laboratoire Jacques-Louis Lions](https://www.ljll.math.upmc.fr), under the supervision of [Jean-Michel Coron](https://www.ljll.math.upmc.fr/coron/), in October 2019. I am interested in the control and stabilization of PDEs, more specifically problems of internal control and stabilization for hyperbolic systems.
 
 
