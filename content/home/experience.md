@@ -34,7 +34,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Paris"
   date_start = "2016-10-01"
-  date_end = ""
+  date_end = "2019-10-01"
  # description = """
 
 [[experience]]
