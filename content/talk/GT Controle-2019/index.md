@@ -1,5 +1,5 @@
 +++
-title = "Stbilisation interne de systèmes hyperboliques linéaires en 1D par un contrôle scalaire"
+title = "Stabilisation interne de systÃ¨mes hyperboliques linÃ©aires en 1D par un contrÃ´le scalaire"
 date = 2019-06-21# Schedule page publish date.
 draft = false
 
@@ -16,7 +16,7 @@ abstract = ""
 #abstract_short = "An example talk using Academic's Markdown slides feature."
 
 # Name of event and optional event URL.
-event = "Journée jeunes contrôleurs"
+event = "JournÃ©e jeunes contrÃ´leurs"
 event_url = "https://www.ljll.math.upmc.fr/fr/seminaires/gt-control"
 
 # Location of event.
@@ -39,7 +39,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "slides/example-slides"
+url_slides = ""
 url_video = ""
 url_code = ""
 
