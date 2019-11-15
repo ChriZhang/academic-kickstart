@@ -17,7 +17,7 @@ abstract = ""
 
 # Name of event and optional event URL.
 event = "Journée jeunes contrôleurs"
-event_url = "https://www.ljll.math.upmc.fr/fr/seminaires/gt-control"
+event_url = "https://www.ljll.math.upmc.fr/fr/seminaires/gt-controle"
 
 # Location of event.
 location = "Paris"
