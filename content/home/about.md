@@ -34,7 +34,8 @@ weight = 5
 +++
 
 # Welcome!
+I am a postdoctoral researcher for the [Chair of Applied Analysis](https://en.www.math.fau.de/applied-analysis/) at the [Friedrich-Alexander-Universität Erlangen Nürnberg](https://www.fau.de/), working with [Enrique Zuazua](https://verso.mat.uam.es/web/ezuazua/zuazua.html).
 
-I defended my PhD thesis (you can find a version of the manuscript [here](https://hal.archives-ouvertes.fr/tel-02464011v1)) at the [Laboratoire Jacques-Louis Lions](https://www.ljll.math.upmc.fr), under the supervision of [Jean-Michel Coron](https://www.ljll.math.upmc.fr/coron/), in October 2019. I am interested in the control and stabilization of PDEs, more specifically problems of internal control and stabilization for hyperbolic systems.
+I am interested in the control and stabilization of hyperbolic PDEs and systems.
 
 
