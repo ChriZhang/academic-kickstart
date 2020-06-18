@@ -63,9 +63,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = ""
-  address = "Room 03.318
-  Cauerstraße 11, 91058 Erlangen
-"
+  address = "Room 03.318, Cauerstraße 11, 91058 Erlangen"
   office_hours = ""
   phone = ""
   skype = ""
