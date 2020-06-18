@@ -38,4 +38,6 @@ I am a postdoctoral researcher for the [Chair of Applied Analysis](https://en.ww
 
 I am interested in the control and stabilization of hyperbolic PDEs and systems.
 
+I defended my PhD thesis (you can find a version of the manuscript [here](https://hal.archives-ouvertes.fr/tel-02464011v1)) at the [Laboratoire Jacques-Louis Lions](https://www.ljll.math.upmc.fr), under the supervision of [Jean-Michel Coron](https://www.ljll.math.upmc.fr/coron/), in October 2019.
+
 
