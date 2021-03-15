@@ -34,7 +34,7 @@ weight = 5
 +++
 
 # Welcome!
-I am a postdoctoral researcher for the [Chair of Applied Analysis](https://en.www.math.fau.de/applied-analysis/) at the [Friedrich-Alexander-Universität Erlangen Nürnberg](https://www.fau.de/), working with [Enrique Zuazua](https://verso.mat.uam.es/web/ezuazua/zuazua.html).
+I am a postdoctoral researcher for the [Chair in Applied Analysis](https://caa-avh.nat.fau.eu/) at the [Friedrich-Alexander-Universität Erlangen Nürnberg](https://www.fau.de/), working with [Enrique Zuazua](https://verso.mat.uam.es/web/ezuazua/zuazua.html).
 
 I am interested in the control and stabilization of hyperbolic PDEs and systems.
 
