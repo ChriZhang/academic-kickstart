@@ -27,20 +27,28 @@ date_format = "January 2006"
 #  date_end = "2016-09-10"
  # description = """
 
+[[experience]]
+  title = "Postdoctoral researcher"
+  company = "FAU Erlangen Nürnberg - Chair in Applied Analysis"
+  company_url = "https://caa-avh.nat.fau.eu/"
+  location = "Erlangen"
+  date_start = "2020-06-01"
+ # date_end = ""
+ # description = """
 
 [[experience]]
   title = "PhD candidate"
   company = "Laboratoire Jacques-Louis Lions"
-  company_url = ""
+  company_url = "https://www.ljll.math.upmc.fr/"
   location = "Paris"
   date_start = "2016-10-01"
   date_end = "2019-10-01"
  # description = """
 
 [[experience]]
-  title = "Assistant"
+  title = "Academic guest & Assistant"
   company = "ETH Zurich"
-  company_url = ""
+  company_url = "https://math.ethz.ch/fim"
   location = "Switzerland"
   date_start = "2017-01-01"
   date_end = "2017-06-30"
