@@ -1,6 +1,6 @@
 +++
 title = "Stabilization of controllable systems: application to the water tank"
-date = 2019-02-18# Schedule page publish date.
+date = 2019-02-18 # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -12,7 +12,7 @@ draft = false
 authors = ["Christophe Zhang"]
 
 # Abstract and optional shortened version.
-abstract = "In this talk, we show how the ideas of backstepping for PDEs can be combined with the notions of system equivalence and pole-shifting to stabilize some controllable systems. This can be thought of as a variant of backstepping for internal distributed controls, which uses a Fredholm-like transformation instead of the "usual" Volterra transformation of the second kind. This strategy of proof was already used to stabilize the linearized bilinear Schrödinger equation. It can be adapted to stabilize the 1-D linear transport equation. The contrasting spectral properties of these systems lead to very different technical developments. We will focus in particular on the stabilization of a 1-D water tank. It can be shown, using a moments method with some sharp estimates, that the linearized systems around non-uniform steady states are controllable in Sobolev spaces (up to conservation of mass). We use this partial controllability result to construct exponentially stabilizing feedbacks for the linearized water-tank system around non-uniform steady states. This shows that the method can be adapted to more complex hyperbolic systems, despite the additional difficulties due to the coupling terms, and the conservation of mass. "
+abstract = "In this talk, we show how the ideas of backstepping for PDEs can be combined with the notions of system equivalence and pole-shifting to stabilize some controllable systems. This can be thought of as a variant of backstepping for internal distributed controls, which uses a Fredholm-like transformation instead of the 'usual' Volterra transformation of the second kind. This strategy of proof was already used to stabilize the linearized bilinear Schrödinger equation. It can be adapted to stabilize the 1-D linear transport equation. The contrasting spectral properties of these systems lead to very different technical developments. We will focus in particular on the stabilization of a 1-D water tank. It can be shown, using a moments method with some sharp estimates, that the linearized systems around non-uniform steady states are controllable in Sobolev spaces (up to conservation of mass). We use this partial controllability result to construct exponentially stabilizing feedbacks for the linearized water-tank system around non-uniform steady states. This shows that the method can be adapted to more complex hyperbolic systems, despite the additional difficulties due to the coupling terms, and the conservation of mass. "
 #abstract_short = "An example talk using Academic's Markdown slides feature."
 
 # Name of event and optional event URL.
@@ -20,7 +20,7 @@ event = "Control in Times of Crisis webinar"
 event_url = "http://ctcseminar.mat.utfsm.cl/"
 
 # Location of event.
-location = "Paris"
+location = "Zoom"
 
 # Is this a selected talk? (true/false)
 selected = false
