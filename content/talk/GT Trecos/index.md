@@ -1,6 +1,6 @@
 
 +++
-title = "Stabilization of controllable systems: application to the water tank"
+title = "Stabilisation de systèmes de fluides : méthode de backstepping et généralisations"
 date = 2021-04-29 # Schedule page publish date.
 draft = false
 
@@ -13,15 +13,15 @@ time_start = 2021-04-29T10:30:00
 authors = ["Christophe Zhang"]
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Après un rappel sur la méthode de backstepping pour la stabilisation d'EDP linéaires, je présenterai un résultat de stabilisation du bac d'eau linéarisé obtenu en collaboration avec Jean-Michel Coron, Amaury Hayat et Shengquan Xiang.  J'évoquerai ensuite quelques pistes de réflexion sur les possibilités de généralisation de la méthode de backstepping (notamment à d'autres systèmes de fluide tels que les water waves), et son lien avec la notion de F-équivalence, ainsi que d'autres méthodes de stabilisation."
 #abstract_short = "An example talk using Academic's Markdown slides feature."
 
 # Name of event and optional event URL.
-event = ""
-event_url = ""
+event = "Groupe de Travail de l'ANR TreCoS"
+event_url = "https://www.math.u-bordeaux.fr/~servedoza/index-ANR.html"
 
 # Location of event.
-location = ""
+location = "Zoom"
 
 # Is this a selected talk? (true/false)
 selected = false
