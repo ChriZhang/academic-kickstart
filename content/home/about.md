@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Control theory",
-    "Analysis, control and stabilization of PDEs"
+    "Analysis, control and stabilization of PDEs", "data-driven modelling and control", "approximation theory"
   ]
 
 # List your qualifications (such as academic degrees).
