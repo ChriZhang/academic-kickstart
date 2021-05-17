@@ -1,6 +1,5 @@
 +++
-title = "Stabilization of controllable systems: application to the water tank
-"
+title = "Stabilization of controllable systems: application to the water tank"
 date = 2019-02-18# Schedule page publish date.
 draft = false
 
