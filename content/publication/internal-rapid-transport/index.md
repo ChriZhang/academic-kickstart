@@ -1,7 +1,7 @@
 +++
 title = "Internal rapid stabilization of a linear transport equation with a scalar feedback"
 authors = ["Christophe Zhang"]
-date = 2018-10-25
+date = 2021-03-08
 publication_types= ["2"]
 publication= "In *Mathematical Control & Related Fields*"
 publication_short= "In *MCRF*"
