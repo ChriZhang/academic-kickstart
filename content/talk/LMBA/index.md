@@ -18,7 +18,7 @@ abstract = "In this talk, we show how the ideas of backstepping for PDEs can be 
 #abstract_short = "An example talk using Academic's Markdown slides feature."
 
 # Name of event and optional event URL.
-event = "Séminaire Analyse, Phénomènes Stochastiques et Applications (Laboratoire de Mathématiques de Bretagne Atlantique"
+event = "Séminaire Analyse, Phénomènes Stochastiques et Applications (Laboratoire de Mathématiques de Bretagne Atlantique)"
 event_url = "http://www.lmba-math.fr/seminaires/analyse-appliquee-2.html"
 
 # Location of event.
