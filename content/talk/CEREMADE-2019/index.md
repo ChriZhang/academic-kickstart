@@ -1,8 +1,7 @@
 +++
 title = "Internal stabilization of transport systems"
 date = 2019-02-04# Schedule page publish date.
-draft = false
-
+draft = true
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2019-01-31T17:00:00
