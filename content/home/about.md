@@ -34,8 +34,7 @@ weight = 5
 +++
 
 # Welcome!
-I am currently in secondment at [INRIA - Nancy Grand Est](https://www.inria.fr/fr/centre-inria-nancy-grand-est), as a researcher in the [SPHINX team](https://www.inria.fr/fr/sphinx). Test
-
+I am currently in secondment at [INRIA - Nancy Grand Est](https://www.inria.fr/fr/centre-inria-nancy-grand-est), as a researcher in the [SPHINX team](https://www.inria.fr/fr/sphinx). 
 I am interested in the control, stabilization and optimal control of PDEs and systems, mainly hyperbolic and parabolic equations, with or without constraints. More recently, I have taken an interest in data-driven modelling and control, in particular methods involving the Koopman operator.
 
 I was formerly a postdoctoral researcher for the [Chair Dynamics, Control and Numerics](https://dcn.nat.fau.eu/) at the [Friedrich-Alexander-Universität Erlangen Nürnberg](https://www.fau.de/).
