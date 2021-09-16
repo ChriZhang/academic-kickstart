@@ -1,5 +1,5 @@
 title = "Shape control of the heat equation"
-date = 2021-07-08 # Schedule page publish date.
+date = 2021-09-17 # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
