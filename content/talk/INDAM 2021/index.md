@@ -1,7 +1,7 @@
 +++
 title = "Shape control of the heat equation"
 date = 2017-01-01T00:00:00  # Schedule page publish date.
-draft = true
+draft = false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2021-07-07T09:00:00
@@ -33,7 +33,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -41,7 +41,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "slides/example-slides"
+url_slides = ""
 url_video = ""
 url_code = ""
 
@@ -52,7 +52,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  #caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
