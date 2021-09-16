@@ -1,10 +1,10 @@
 title = "Shape control of the heat equation"
-date = 2021-09-16 # Schedule page publish date.
+date = 2021-07-08 # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2021-07-07T00:00:00
+time_start = 2021-07-07T09:00:00
 #time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
