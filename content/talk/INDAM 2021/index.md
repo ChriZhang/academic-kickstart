@@ -24,9 +24,6 @@ location = "Rome"
 # Is this a selected talk? (true/false)
 selected = false
 
-# Is this a selected talk? (true/false)
-selected = false
-
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
