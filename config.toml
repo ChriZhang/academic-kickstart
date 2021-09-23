@@ -63,7 +63,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = ""
-  address = "Room 03.318, Cauerstraße 11, 91058 Erlangen"
+  address = "Room 317, Institut Elie Cartan de Lorraine, Faculte des Sciences et Technologie campus, Boulevard des Aiguillettes, 54506 Vandoeuvre-les-Nancy"
   office_hours = ""
   phone = ""
   skype = ""
@@ -99,7 +99,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "ocean"
+  color_theme = "1950s"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -308,7 +308,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
 name = "CV"
-url = "CV_CZ(7).pdf"
+url = "CV_CZ(8).pdf"
 weight = 7
 
 # Search.
