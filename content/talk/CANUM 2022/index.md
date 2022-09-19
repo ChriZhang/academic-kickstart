@@ -1,6 +1,6 @@
 +++
-title = "Controle indirect de systemes d'equations d'ondes semilineaires couplees"
-date = 2019-01-20
+title = "Contrôle de l'équation de la chaleur par des formes"
+date = 2022-06-16
 draft = false
 
 # Talk start and end times.
