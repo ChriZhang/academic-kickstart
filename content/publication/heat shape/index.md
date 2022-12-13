@@ -7,11 +7,10 @@ publication= ""
 publication_short= "" 
 url_pdf= "" 
 url_preprint="" 
-abstract="We consider the internal control of linear parabolic equations through on-off shape controls, i.e.,
-controls of the form M (t)χω(t) with M (t) ≥ 0 and ω(t) with a prescribed maximal measure.
+abstract="We consider the internal control of linear parabolic equations through on-off shape controls,  with a prescribed maximal measure.
 We establish small-time approximate controllability towards all possible final states allowed by
 the comparison principle with nonnegative controls. We manage to build controls with constant
-amplitude M (t) ≡ M . In contrast, if the moving control set ω(t) is confined to evolve in some region
+amplitude M(t)=M . In contrast, if the moving control set is confined to evolve in some region
 of the whole domain, we prove that approximate controllability fails to hold for small times.
 The method of proof is constructive. Using Fenchel-Rockafellar duality and the bathtub principle,
 the on-off shape control is obtained as the bang-bang solution of an optimal control problem, which
