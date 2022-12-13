@@ -1,6 +1,7 @@
-+++ title = "Approximate control of parabolic equations with on-off shape
++++ 
+title = "Approximate control of parabolic equations with on-off shape
 controls by Fenchel duality" 
-authors = ["Camille Pouchol, Emmanuel Trélat & Christophe Zhang"] 
+authors = ["Camille Pouchol, Emmanuel Trelat & Christophe Zhang"] 
 date = 2022-12-08
 publication_types= ["2"] 
 publication= "" 
@@ -16,4 +17,5 @@ The method of proof is constructive. Using Fenchel-Rockafellar duality and the b
 the on-off shape control is obtained as the bang-bang solution of an optimal control problem, which
 we design by relaxing the constraints.
 Our optimal control approach is outlined in a rather general form for linear constrained control
-problems, paving the way for generalisations and applications to other PDEs and constraints. " +++
+problems, paving the way for generalisations and applications to other PDEs and constraints. " 
++++
