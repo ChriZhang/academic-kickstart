@@ -1,1 +1,20 @@
-+++ title = "Fredholm transformation on Laplacian and rapid stabilization for the heat equation" authors = ["Ludovick Gagnon, Amaury Hayat, Shengquan Xiang & Christophe Zhang"] date = 2021-10-08 publication_types= ["2"] publication= "In Journal of Functional Analysis" publication_short= "In JFA" url_pdf= "https://www.sciencedirect.com/science/article/abs/pii/S0022123622002841" url_preprint="https://hal.archives-ouvertes.fr/hal-03319847/" abstract="We study the rapid stabilization of the heat equation on the 1-dimensional torus using the backstepping method with a Fredholm transformation. We prove that, under some assumption on the control operator, two scalar controls are necessary and sufficient to get controllability and rapid stabilization. This classical framework allows us to present the backstepping method with Fredholm transformations on Laplace operators in a sharp functional setting, which is the main objective of this work. Finally, we prove that the same Fredholm transformation also leads to the local rapid stability of the viscous Burgers equation. " +++
++++ title = "Approximate control of parabolic equations with on-off shape
+controls by Fenchel duality" 
+authors = ["Camille Pouchol, Emmanuel Trélat & Christophe Zhang"] 
+date = 2022-12-08
+publication_types= ["2"] 
+publication= "" 
+publication_short= "" 
+url_pdf= "" 
+url_preprint="" 
+abstract="We consider the internal control of linear parabolic equations through on-off shape controls, i.e.,
+controls of the form M (t)χω(t) with M (t) ≥ 0 and ω(t) with a prescribed maximal measure.
+We establish small-time approximate controllability towards all possible final states allowed by
+the comparison principle with nonnegative controls. We manage to build controls with constant
+amplitude M (t) ≡ M . In contrast, if the moving control set ω(t) is confined to evolve in some region
+of the whole domain, we prove that approximate controllability fails to hold for small times.
+The method of proof is constructive. Using Fenchel-Rockafellar duality and the bathtub principle,
+the on-off shape control is obtained as the bang-bang solution of an optimal control problem, which
+we design by relaxing the constraints.
+Our optimal control approach is outlined in a rather general form for linear constrained control
+problems, paving the way for generalisations and applications to other PDEs and constraints. " +++
