@@ -17,7 +17,7 @@ abstract = "The Koopman operator is an important object in the study of dynamica
 
 # Name of event and optional event URL.
 event = "CAA Mini-Workshop on hyperbolic problems"
-event_url = "https://en.www.math.fau.de/events/mini-workshop-on-hyperbolic-problems-y-holle-y-wang-c-rodriguez-c-zhang-g-v-hermosilla/"
+event_url = ""
 
 # Location of event.
 location = "Erlangen"
