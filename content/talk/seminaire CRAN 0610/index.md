@@ -1,6 +1,5 @@
 +++
-title = "
-Contrôle sous contraintes en dimension infinie : application à l'équation de la chaleur"
+title = "Contrôle sous contraintes en dimension infinie : application à l'équation de la chaleur"
 date = 2022-10-06 # Schedule page publish date.
 draft = false
 
