@@ -1,9 +1,9 @@
 +++
 title = "A quantitative analysis of Koopman operator methods for system identification and predictions"
-authors = ["Enrique Zuazua & Christophe Zhang"]
+authors = ["Christophe Zhang & Enrique Zuazua"]
 date = 2022-09-05
 publication_types= ["2"]
-publication= "accepted for publication in Comptes-Rendus Mécanique"
+publication= "in Comptes-Rendus Mécanique"
 publication_short= "CRM, 2023"
 url_preprint="https://hal.archives-ouvertes.fr/hal-03278445"
 url_pdf="https://comptes-rendus.academie-sciences.fr/mecanique/item/CRMECA_2023__351_S1_A3_0/"
