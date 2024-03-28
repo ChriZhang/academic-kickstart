@@ -19,11 +19,11 @@ Par une approche qui combine relaxation et analyse convexe, et que j'illustrerai
 
 
 # Name of event and optional event URL.
-event = "Séminaire de l'équipe CO2, Centre de Recherche en Automatique de Nancy"
+event = "Rencontres de l'ANR SHAPO"
 event_url = ""
 
 # Location of event.
-location = "Nancy"
+location = "Paris"
 
 # Is this a selected talk? (true/false)
 selected = false
