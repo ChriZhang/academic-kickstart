@@ -2,7 +2,7 @@
 title = "Computer-assisted proof of non-reachability for linear systems in finite dimension" 
 authors = ["Ivan Hasenohr, Camille Pouchol, Yannick Privat & Christophe Zhang"] 
 date = 2024-03-27
-publication_types= ["1"] 
+publication_types= ["2"] 
 publication= "" 
 publication_short= "" 
 url_pdf= "" 
