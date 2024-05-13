@@ -16,5 +16,5 @@ count=3
 list_format=2
 +++
 
-From September 2023 to January 2024 I gave a lecture on Optimization at the Ecole des mines de Nancy. This course is for 2nd and 3rd year students, and covers the theoretical and algorithmical basics for continuous optimization. More [here](https://arche.univ-lorraine.fr/course/view.php?id=66423).
-.
+From September 2023 to January 2024 I taught the Optimization course at the Ecole des mines de Nancy. This course is for 2nd and 3rd year students, and covers the theoretical and algorithmical basics for continuous optimization. More [here](https://arche.univ-lorraine.fr/course/view.php?id=66423).
+
