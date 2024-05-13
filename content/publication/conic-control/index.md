@@ -1,7 +1,7 @@
 +++ 
 title = "Constructive reachability for linear control problems under conic constraints" 
 authors = ["Camille Pouchol, Emmanuel Trelat & Christophe Zhang"] 
-date = 2024-05-13
+date = 2024-05-12
 publication_types= ["2"] 
 publication= "" 
 publication_short= "" 
