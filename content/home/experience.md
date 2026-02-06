@@ -27,6 +27,14 @@ date_format = "January 2006"
 #  date_end = "2016-09-10"
  # description = """
 
+[[experience]]
+  title = "Researcher"
+  company = "INRIA Paris"
+  company_url = "https://www.inria.fr/fr/centre-inria-de-paris"
+  location = "Paris, France"
+  date_start = "2025-04-01"
+ # date_end = ""
+ # description = """
 
 [[experience]]
   title = "Researcher"
@@ -34,7 +42,7 @@ date_format = "January 2006"
   company_url = "https://www.inria.fr/fr/centre-inria-nancy-grand-est"
   location = "Nancy, France"
   date_start = "2021-09-01"
- # date_end = ""
+  date_end = "2025-03-31"
  # description = """
  
 [[experience]]
