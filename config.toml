@@ -125,7 +125,7 @@ enableGitInfo = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = true
@@ -294,10 +294,10 @@ name = "Teaching"
 url = "#projects"
 weight = 3
 
-#[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 4
+[[menu.main]]
+ name = "Teaching test 2"
+ url = "#posts"
+ weight = 4
 
 #[[menu.main]]
 #  name = "Contact"
