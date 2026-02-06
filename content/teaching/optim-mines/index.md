@@ -1,0 +1,57 @@
++++
+title = "Optimization : theoretical and numerical aspects"
+date = 2019-02-04# Schedule page publish date.
+draft = false
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+time_start = 2023-01-09T17:00:00
+time_end = 2024-02-01T18:00:00
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+#authors = ["Christophe Zhang"]
+
+# Abstract and optional shortened version.
+abstract = "From September 2023 to January 2024 I taught the Optimization course at the Ecole des mines de Nancy. This course is for 2nd and 3rd year students, and covers the theoretical and algorithmical basics for continuous optimization. More [here](https://arche.univ-lorraine.fr/course/view.php?id=66423)."
+#abstract_short = "An example talk using Academic's Markdown slides feature."
+
+# Name of event and optional event URL.
+#event = ""
+#event_url = ""
+
+# Location of event.
+location = "Ecole des mines de Nancy"
+
+# Is this a selected talk? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this talk with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+#projects = ["internal-project"]
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
+# Links (optional).
+url_pdf = ""
+url_slides = ""
+url_video = ""
+url_code = ""
+
+# Does the content use math formatting?
+math = false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  #caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Right"
++++
