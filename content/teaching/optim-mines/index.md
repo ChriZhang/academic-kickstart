@@ -3,7 +3,6 @@ title = "Optimization : theoretical and numerical aspects"
 date = 2024-02-01# Schedule page publish date.
 draft = false
 
-url_pdf="static/Poly_mines_2904update.pdf"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 #authors = ["Christophe Zhang"]
 
