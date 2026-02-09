@@ -7,6 +7,7 @@ url_pdf="static/Poly_mines_2904update.pdf"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 #authors = ["Christophe Zhang"]
 
+url_pdf = "Poly_mines_2904update.pdf"
 # Abstract and optional shortened version.
 
 
