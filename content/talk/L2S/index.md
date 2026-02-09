@@ -38,7 +38,7 @@ projects = ["internal-project"]
 tags = []
 
 # Links (optional).
-url_pdf = "static/Poly_mines_2904update.pdf"
+url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
