@@ -7,6 +7,7 @@ draft = false
 time_start = 2023-01-09T17:00:00
 time_end = 2024-02-01T18:00:00
 
+url_pdf="Poly_mines_2904update.pdf"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 #authors = ["Christophe Zhang"]
 
