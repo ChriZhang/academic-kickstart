@@ -290,14 +290,19 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 3
+  
+[[menu.main]]
 name = "Teaching"
 url = "#projects"
-weight = 3
+weight = 4
 
-[[menu.main]]
- name = "Teaching test 2"
- url = "#posts"
- weight = 4
+#[[menu.main]]
+ #name = "Teaching test 2"
+ #url = "#posts"
+ #weight = 4
 
 #[[menu.main]]
 #  name = "Contact"
