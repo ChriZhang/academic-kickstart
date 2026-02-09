@@ -1,11 +1,7 @@
 +++
 title = "Optimization : theoretical and numerical aspects"
-date = 2019-02-04# Schedule page publish date.
+date = 2024-02-01# Schedule page publish date.
 draft = false
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2023-01-09T17:00:00
-time_end = 2024-02-01T18:00:00
 
 url_pdf="static/Poly_mines_2904update.pdf"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
