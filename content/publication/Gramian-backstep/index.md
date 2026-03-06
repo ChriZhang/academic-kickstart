@@ -2,7 +2,7 @@
 +++ 
 title = "Fredholm backstepping for critical operators and application to rapid stabilization for the linearized water waves" 
 authors = ["Ludovick Gagnon, Amaury Hayat, Shengquan Xiang & Christophe Zhang"] 
-date = 2023-09-01 publication_types= ["2"] 
+date = 2026-03-05 publication_types= ["2"] 
 publication= "" 
 publication_short= "" 
 url_preprint="[https://arxiv.org/abs/2202.08321](https://hal.science/LJLL/hal-05532504v2)" 
