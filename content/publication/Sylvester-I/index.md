@@ -1,8 +1,8 @@
 +++
 title = "An abstract setting for the Fredholm backstepping transformation: self-adjoint case"
-authors = ["Ludovick Gagnon, Amaury Hayat, Swann Marx, Shengquan Xiang & Christophe Zhang"]
+authors = ["Ludovick Gagnon", "Amaury Hayat", "Swann Marx", "Shengquan Xiang", "Christophe Zhang"]
 date = 2025-11-08
-publication_types= ["2"]
+publication_types = ["2"]
 publication= ""
 publication_short= ""
 url_preprint="https://hal.univ-lyon2.fr/EC-NANTES/hal-05354436v1"
