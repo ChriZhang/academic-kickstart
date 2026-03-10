@@ -1,8 +1,8 @@
 +++ 
 title = "Computer-assisted proofs of non-reachability for linear parabolic PDEs under bounded control constraints" 
-authors = ["Ivan Hasenohr, Camille Pouchol, Yannick Privat & Christophe Zhang"] 
+authors = ["Ivan Hasenohr", "Camille Pouchol", "Yannick Privat", "Christophe Zhang"] 
 date = 2025-11-10
-publication_types= ["2"] 
+publication_types = ["2"] 
 publication= "" 
 publication_short= "" 
 url_pdf= "" 
