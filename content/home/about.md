@@ -1,5 +1,6 @@
 +++
 # About/Biography widget.
+type = "widget"
 widget = "about"
 active = true
 date = 2025-04-20T00:00:00
