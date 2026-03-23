@@ -2,6 +2,7 @@
 # Experience widget.
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
+date = 2025-03-01T00:00
 headless = true
 title = "Experience"
 subtitle = ""
