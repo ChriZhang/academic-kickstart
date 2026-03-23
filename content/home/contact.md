@@ -2,8 +2,7 @@
 # Contact widget.
 widget = "contact"
 active = true
-# date = 2016-04-20T00:00:00
-headless = true
+date = 2025-04-01T00:00:00
 title = "Contact"
 subtitle = ""
 
